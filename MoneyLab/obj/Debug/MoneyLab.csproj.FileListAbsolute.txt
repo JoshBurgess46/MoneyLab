@@ -1,0 +1,7 @@
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\bin\Debug\MoneyLab.exe.config
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\bin\Debug\MoneyLab.exe
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\bin\Debug\MoneyLab.pdb
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\obj\Debug\MoneyLab.csprojAssemblyReference.cache
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\obj\Debug\MoneyLab.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\obj\Debug\MoneyLab.exe
+C:\Users\JoshB\source\repos\MoneyLab\MoneyLab\obj\Debug\MoneyLab.pdb
